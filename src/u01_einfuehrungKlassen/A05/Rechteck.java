@@ -11,7 +11,7 @@ public class Rechteck {
     }
 
     public void druckeRechteck() {
-        System.out.print("\n\u008D");
+        System.out.print("\n\n\n\n");
         for(int y = 0; y < laenge; y++) {
             for(int offs = 0; offs < xPos; offs++)
                 System.out.print("  ");
